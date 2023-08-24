@@ -1,0 +1,7 @@
+flask
+Flask-SQLAlchemy
+flask-login
+rumps
+tika 
+schedule
+Pystray

@@ -1,0 +1,2 @@
+127.0.0.1 - - [15/mag/2023:14:40:13 +0000] "GET /solr/admin/info/system?wt=json HTTP/1.1" 200 3780
+127.0.0.1 - - [15/mag/2023:14:40:42 +0000] "GET /solr/admin/info/system?wt=json HTTP/1.1" 200 3764
