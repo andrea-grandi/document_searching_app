@@ -12,6 +12,8 @@ git clone <repo-url>
 pip install -r requirements.txt
 ```
 
+Edit config.py file with the paths of the folders that you want to be indexed by Solr.
+
 ## Running The App 
 
 For MacOS 
