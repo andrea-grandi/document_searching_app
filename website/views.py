@@ -32,7 +32,7 @@ def search_documents():
     if request.method == 'POST':
         query = request.form.get('query', '')
 
-        solr_url = 'http://localhost:8983/solr'  # URL di Solr
+        # solr_url = 'http://localhost:8983/solr'  # URL di Solr
 
         # Parametri comuni per la ricerca in tutti i core
         params = {
